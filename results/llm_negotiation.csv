@@ -1,0 +1,16 @@
+condition,layout,seed,ep_length,sparse_reward,deliveries,deliveries_a0,deliveries_a1,idle_a0,idle_a1,collisions
+llm_negotiation,cramped_room,0,400,0,0,0,0,6,195,0
+llm_negotiation,cramped_room,1,400,0,0,0,0,4,4,0
+llm_negotiation,cramped_room,2,400,0,0,0,0,8,8,0
+llm_negotiation,cramped_room,3,400,0,0,0,0,3,198,0
+llm_negotiation,cramped_room,4,400,0,0,2,0,22,176,0
+llm_negotiation,asymmetric_advantages,0,400,0,0,4,10,82,104,0
+llm_negotiation,asymmetric_advantages,1,400,0,0,7,7,88,96,0
+llm_negotiation,asymmetric_advantages,2,400,0,0,8,8,99,102,0
+llm_negotiation,asymmetric_advantages,3,400,0,0,2,2,28,29,0
+llm_negotiation,asymmetric_advantages,4,400,0,0,6,8,101,100,0
+llm_negotiation,coordination_ring,0,400,0,0,0,0,8,10,0
+llm_negotiation,coordination_ring,1,400,0,0,0,0,9,10,0
+llm_negotiation,coordination_ring,2,400,0,0,0,0,19,24,0
+llm_negotiation,coordination_ring,3,400,0,0,0,0,10,11,0
+llm_negotiation,coordination_ring,4,400,0,0,0,0,7,8,0

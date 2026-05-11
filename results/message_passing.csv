@@ -1,0 +1,16 @@
+condition,layout,seed,ep_length,sparse_reward,deliveries,deliveries_a0,deliveries_a1,idle_a0,idle_a1,collisions
+message_passing,cramped_room,0,400,0,0,0,0,201,201,0
+message_passing,cramped_room,1,400,0,0,0,0,201,201,0
+message_passing,cramped_room,2,400,0,0,0,0,201,201,0
+message_passing,cramped_room,3,400,0,0,0,0,201,201,0
+message_passing,cramped_room,4,400,0,0,0,0,201,201,0
+message_passing,asymmetric_advantages,0,400,240,12,8,4,198,182,0
+message_passing,asymmetric_advantages,1,400,240,12,7,5,212,180,0
+message_passing,asymmetric_advantages,2,400,240,12,6,6,227,177,0
+message_passing,asymmetric_advantages,3,400,260,13,5,8,209,197,0
+message_passing,asymmetric_advantages,4,400,240,12,7,5,229,148,0
+message_passing,coordination_ring,0,400,0,0,0,0,197,198,0
+message_passing,coordination_ring,1,400,0,0,0,0,197,198,0
+message_passing,coordination_ring,2,400,0,0,0,0,197,198,0
+message_passing,coordination_ring,3,400,0,0,0,0,197,198,0
+message_passing,coordination_ring,4,400,0,0,0,0,197,198,0

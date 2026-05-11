@@ -1,0 +1,16 @@
+condition,layout,seed,ep_length,sparse_reward,deliveries,deliveries_a0,deliveries_a1,idle_a0,idle_a1,collisions
+independent,cramped_room,0,400,180,9,7,2,217,242,0
+independent,cramped_room,1,400,180,9,1,8,245,223,0
+independent,cramped_room,2,400,180,9,3,6,243,223,0
+independent,cramped_room,3,400,180,9,4,5,232,228,0
+independent,cramped_room,4,400,200,10,4,6,237,229,0
+independent,asymmetric_advantages,0,400,240,12,8,4,197,181,0
+independent,asymmetric_advantages,1,400,260,13,7,6,201,175,0
+independent,asymmetric_advantages,2,400,240,12,6,6,232,157,0
+independent,asymmetric_advantages,3,400,240,12,5,7,234,161,0
+independent,asymmetric_advantages,4,400,260,13,7,6,212,173,0
+independent,coordination_ring,0,400,0,0,0,0,196,197,0
+independent,coordination_ring,1,400,0,0,0,0,196,197,0
+independent,coordination_ring,2,400,0,0,0,0,196,197,0
+independent,coordination_ring,3,400,0,0,0,0,196,197,0
+independent,coordination_ring,4,400,0,0,0,0,196,197,0
